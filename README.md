@@ -11,6 +11,6 @@ Asegúrate de tener instalado en tu sistema:
 - [Otras dependencias si las hay]
 
 ## Herramientas
-*PostGreSQL*
-*Java*
-*SpringBoot*
+-*PostGreSQL*
+-*Java*
+-*SpringBoot*
